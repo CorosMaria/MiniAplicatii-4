@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\obj\Debug\Colorare_buton_prin_TrackBar.Form1.resources
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\obj\Debug\Colorare_buton_prin_TrackBar.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\obj\Debug\Colorare buton prin TrackBar.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\bin\Debug\Colorare buton prin TrackBar.exe
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\bin\Debug\Colorare buton prin TrackBar.pdb
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\obj\Debug\Colorare buton prin TrackBar.exe
+D:\MARIA\Programare\Aplicatii\Colorare buton prin TrackBar\Colorare buton prin TrackBar\obj\Debug\Colorare buton prin TrackBar.pdb

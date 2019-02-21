@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\bin\Debug\Cercuri aleatoare.exe
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\bin\Debug\Cercuri aleatoare.pdb
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\obj\Debug\Cercuri_aleatoare.Form1.resources
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\obj\Debug\Cercuri_aleatoare.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\obj\Debug\Cercuri aleatoare.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\obj\Debug\Cercuri aleatoare.exe
+D:\MARIA\Programare\Aplicatii\Cercuri aleatoare\Cercuri aleatoare\obj\Debug\Cercuri aleatoare.pdb

@@ -1,0 +1,8 @@
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\bin\Debug\Consum lunar.exe
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\bin\Debug\Consum lunar.pdb
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\obj\Debug\Consum_lunar.Form1.resources
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\obj\Debug\Consum_lunar.Properties.Resources.resources
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\obj\Debug\Consum lunar.csproj.GenerateResource.Cache
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\obj\Debug\Consum lunar.exe
+D:\MARIA\Programare\Aplicatii\Consum lunar\Consum lunar\obj\Debug\Consum lunar.pdb
